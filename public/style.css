@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+.center-div{
+    padding-top: 8%;
+}
+
+body{
+    background-image: url('/assets/background_png.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
